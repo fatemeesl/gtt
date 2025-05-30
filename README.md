@@ -4,7 +4,6 @@
 </p>
 
 <h1 align="center">🐍 SPy – Students of Python</h1>
-<h3 align="center">Beginner-Friendly Python Notebooks for Learning and Teaching</h3>
 
 ---
 
