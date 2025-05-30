@@ -9,7 +9,7 @@
 
 ## 📘 Overview
 
-Welcome to the official notebook series by SPY (Students of Python) – a student-led group passionate about learning and teaching Python from the ground up. This collection of Jupyter Notebooks is designed to help beginners build a solid foundation in Python through clear explanations and hands-on examples.
+**SPy (Students of Python)** is an initiative by medical students with a passion for coding. We believe programming skills are essential in all fields — even medicine — and we're here to make it fun and easy to learn.  
 
 > _“Our mission is simple: Learn together. Code together.”_
 
@@ -57,11 +57,11 @@ Welcome to the official notebook series by SPY (Students of Python) – a studen
 
 ---
 
-## 👥 About SPy
-
-**SPy (Students of Python)** is an initiative by medical students with a passion for coding. We believe programming skills are essential in all fields — even medicine — and we're here to make it fun and easy to learn.  
-📫 Want to join or collaborate?  
-Email us: `studentpyteam@gmail.com`
+## 👥 contact us
+  
+Email: `studentpyteam@gmail.com`
+Telegram: `t.me/spycoders`
+Instagram: `instagram.com/spy.coders`
 
 ---
 
