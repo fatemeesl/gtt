@@ -59,9 +59,9 @@
 
 ## 👥 contact us
   
-Email: `studentpyteam@gmail.com`
-Telegram: `t.me/spycoders`
-Instagram: `instagram.com/spy.coders`
+Email: `studentpyteam@gmail.com`  
+Telegram: `t.me/spycoders`  
+Instagram: `instagram.com/spy.coders`  
 
 ---
 
