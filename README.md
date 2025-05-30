@@ -32,8 +32,8 @@ Welcome to the official notebook series by SPy (Students of Python) – a studen
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/spy-coders/medical_course1.git
+   cd medical_course1
    ```
 
 2. **Launch Jupyter:**
