@@ -3,13 +3,13 @@
   <img src="[IMG_20250530_233423_934.jpg](https://avatars.githubusercontent.com/u/211943230?v=4)" alt="SPy Logo" width="300">
 </p>
 
-<h1 align="center">🐍 SPy – Students of Python</h1>
+<h1 align="center">🐍 SPY – Students of Python</h1>
 
 ---
 
 ## 📘 Overview
 
-Welcome to the official notebook series by SPy (Students of Python) – a student-led group passionate about learning and teaching Python from the ground up. This collection of Jupyter Notebooks is designed to help beginners build a solid foundation in Python through clear explanations and hands-on examples.
+Welcome to the official notebook series by SPY (Students of Python) – a student-led group passionate about learning and teaching Python from the ground up. This collection of Jupyter Notebooks is designed to help beginners build a solid foundation in Python through clear explanations and hands-on examples.
 
 > _“Our mission is simple: Learn together. Code together.”_
 
@@ -40,8 +40,8 @@ Welcome to the official notebook series by SPy (Students of Python) – a studen
    jupyter notebook
    ```
 
-📦 Requires: Python 3.x and Jupyter Notebook  
-🟢 Recommended: Use [Anaconda](https://www.anaconda.com/) for an easy setup
+- Requires: Python 3.x and Jupyter Notebook  
+- Recommended: Use [Anaconda](https://www.anaconda.com/) for an easy setup
 
 ---
 
