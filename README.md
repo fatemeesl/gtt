@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="IMG_20250530_233423_934.jpg" alt="SPy Logo" width="300">
+  <img src="[IMG_20250530_233423_934.jpg](https://avatars.githubusercontent.com/u/211943230?v=4)" alt="SPy Logo" width="300">
 </p>
 
 <h1 align="center">🐍 SPy – Students of Python</h1>
