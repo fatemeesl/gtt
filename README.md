@@ -50,32 +50,28 @@ Welcome to the official notebook series by SPy (Students of Python) – a studen
 
 🧒 Absolute beginners curious about programming
 
-🎓 Students in CS or related fields
+🩺 Medical students starting programming
 
-👨‍🏫 Teachers looking for introductory Python material
+🎓 Anyone interested in coding basics
 
-🧠 Self-learners who prefer hands-on examples over theory
+🧑‍🔬 Interdisciplinary learners combining health and tech
 
 ---
 
 ## 👥 About SPy
 
-**SPy (Students of Python)** is an initiative by medical students with a passion for coding. We believe programming skills are essential in all fields — even medicine — and we're here to make it fun and easy to learn.
+**SPy (Students of Python)** is an initiative by medical students with a passion for coding. We believe programming skills are essential in all fields — even medicine — and we're here to make it fun and easy to learn.  
 📫 Want to join or collaborate?  
-Email us: `your.email@example.com`
+Email us: `studentpyteam@gmail.com`
 
 ---
 
 ## ✍️ Author
 
-**Your Name**   
+**SPy team**   
 Founder, SPy – Students of Python  
-[GitHub Profile](https://github.com/yourusername)
+[GitHub Profile](https://github.com/spy-coders)
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
